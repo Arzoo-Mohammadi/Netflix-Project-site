@@ -962,6 +962,15 @@ li.slide-item {
   font-weight: bold;
 }
 /*<!------------------------------------------- Questions Section -------------------------------------------------> */
+.frequently{
+background: url(image/suggested/background.jpg); 
+  background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover;
+  height:100%; 
+}
+
+
 .title-questions {
   padding-left: 110px;
   padding-right: 90px;
