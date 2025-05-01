@@ -963,7 +963,7 @@ li.slide-item {
 }
 /*<!------------------------------------------- Questions Section -------------------------------------------------> */
 .frequently{
-background: url(image/suggested/background.jpg); 
+background: url(./image/suggested/background.jpg); 
   background-position: center;
   background-repeat: no-repeat; 
   background-size: cover;
