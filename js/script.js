@@ -74,18 +74,18 @@ function changeBackground(imageUrl, text) {
 }
 // Pagination images
 const images = [
-  "image/suggested/11.jpg",
-  "image/suggested/22.jpg",
-  "image/suggested/77.jpg",
-  "image/suggested/44.jpg",
-  "image/suggested/55.jpg",
-  "image/suggested/66.jpg",
-  "image/suggested/33.jpg",
-  "image/suggested/88.jpg",
-  "image/suggested/99.jpg",
-  "image/suggested/10.jpg",
-  "image/suggested/111.jpg",
-  "image/suggested/12.jpg",
+  ".image/suggested/11.jpg",
+  ".image/suggested/22.jpg",
+  ".image/suggested/77.jpg",
+  ".image/suggested/44.jpg",
+  ".image/suggested/55.jpg",
+  ".image/suggested/66.jpg",
+  ".image/suggested/33.jpg",
+  ".image/suggested/88.jpg",
+  ".image/suggested/99.jpg",
+  ".image/suggested/10.jpg",
+  ".image/suggested/111.jpg",
+  ".image/suggested/12.jpg",
 ];
 
 const imagesPerPage = 3;
