@@ -65,19 +65,18 @@ items.forEach((e) => {
 });
 // trending Section
 function changeBackground(imageUrl, text) {
-  document.getElementById(
-    "trending-section"
-  ).style.backgroundImage = `url('${imageUrl}')`;
+  document.getElementById("trending-section").style.backgroundImage = `url('${imageUrl}')`;
 
   let textOverlay = document.getElementById("text-overlay");
   textOverlay.innerHTML = `${text} <br> <button id="play-button">Play Now</button>`;
 }
+
 // Pagination images
 const images = [
   "./image/suggested/11.jpg",
-  "./image/suggested/22.jpg",
-  "./image/suggested/77.jpg",
-  "./image/suggested/44.jpg",
+  "./image/suggested/12.jpg",
+  "./image/suggested/111.jpg",
+  "./image/suggested/10.jpg",
   "./image/suggested/55.jpg",
   "./image/suggested/66.jpg",
   "./image/suggested/33.jpg",
