@@ -74,8 +74,8 @@ function changeBackground(imageUrl, text) {
 // Pagination images
 const images = [
   "./image/suggested/11.jpg",
-  "./image/suggested/12.jpg",
-  "./image/suggested/111.jpg",
+  "./image/suggested/77.jpg",
+  "./image/suggested/33.jpg",
   "./image/suggested/10.jpg",
   "./image/suggested/55.jpg",
   "./image/suggested/66.jpg",
